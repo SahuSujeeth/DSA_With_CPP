@@ -49,8 +49,32 @@ g++ filename.cpp
 
 ## 📘 Topics Learned in Hashing 
 
-...
-...
+Today I focused on **Hashing** and explored different techniques and their complexities.
+
+## 🔑 What I Learned
+- **Hashing with Integers & Characters**
+  - Started with brute force approach.
+  - Moved to efficient solutions using `map` and `unordered_map`.
+
+- **Array Size for Hashing**
+  - In `main` function:
+    - For **integers** → array size up to **10⁶**.
+  - Using **global variables**:
+    - For **integers** → array size up to **10⁷**.
+    - For **boolean arrays** → size up to **10⁸ – 10⁹**.
+
+- **Time Complexity**
+  - **Best & Average Case:** `O(1)`
+  - **Worst Case (Collision):** `O(N)`
+
+- **Key Insights**
+  - Importance of choosing correct data structures (`map` vs `unordered_map`).
+  - Trade-offs between brute force and hashing.
+  - Role of collisions in performance drop.
+
+---
+
+📍 With this, I built a strong foundation in **Hashing** for both integers and characters.
 
 
 ## 📂 Folders
