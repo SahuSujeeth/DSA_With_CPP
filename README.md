@@ -80,3 +80,16 @@ These are Basics undrstanding of the HASHING....I have learned..
 
 ## 📂 Folders
 - *Learn_Basic_Hashing* → Contains Hashing Array-related practice codes (Integer Hashing , Char Hashing, etc.)
+
+This is the day 13 of 100 days consistency for the DSA all the basics are completed but i need to revise once...
+So these two days i would like to revise that and then from the 21st Sept i need to go head... 
+
+## What i'he to revise 
+- *Things to know in cpp*
+- *Building up logical thinking* -> 22 Patterns
+- *STL*
+- *Know Basic Maths*
+- *Recursion*
+- *Hashing*
+
+These are target i need to revise in 2 days... *TARGET 20TH SEPT*
