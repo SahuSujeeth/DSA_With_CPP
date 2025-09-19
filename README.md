@@ -86,6 +86,15 @@ So these two days i would like to revise that and then from the 21st Sept i need
 
 ## What i'he to revise 
 - *Things to know in cpp*
+   - User inputs and outs
+   - Data types
+   - if else statement
+   - switch statement
+   - Arrays and Strings
+   - for loops
+   - while loops
+   - functions
+   - time complexity learned just basics....
 - *Building up logical thinking* -> 22 Patterns
 - *STL*
 - *Know Basic Maths*
