@@ -98,6 +98,9 @@ So these two days i would like to revise that and then from the 21st Sept i need
 - *Building up logical thinking* -> 22 Patterns
 - *STL*
 - *Know Basic Maths*
+   
+   Revises the basics of the maths once again... 
+   some of still remaining tommarrow that will also i havve to completee...
 - *Recursion*
 - *Hashing*
 
